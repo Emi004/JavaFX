@@ -14,4 +14,4 @@
 (Add grades) > (Inspect statistical data)
 [Admin] - (Create account)
 [Admin] - (Add subjects)
-(Create account) < (Display Account Already Created Error)
+(Create account) < (Display Account Already Created Error) 
