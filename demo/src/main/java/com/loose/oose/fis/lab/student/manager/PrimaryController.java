@@ -1,4 +1,4 @@
-package com.example;
+package com.loose.oose.fis.lab.student.manager;
 
 import java.io.IOException;
 import javafx.fxml.FXML;
